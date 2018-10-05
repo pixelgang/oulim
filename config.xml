@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
-<widget id="com.transapp.oterlimit" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.transapp.oterlimit" version="1.6" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
 	<name>Outer Limits</name>
 	<description>Space Arcade game</description>
 	<author href="http://www.transapps.com" email="makecentz@yahoo.com">trans apps</author>
